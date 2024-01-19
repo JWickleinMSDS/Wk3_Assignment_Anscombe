@@ -1,0 +1,3 @@
+Go Execution Time: 1ms
+Python Execution Time: 172.293µs
+R Execution Time: 768.866µs
